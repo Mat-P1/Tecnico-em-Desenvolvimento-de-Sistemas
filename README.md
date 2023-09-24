@@ -19,10 +19,10 @@ Nota geral: 9.16
 ## O que aprendi
 Vários recursos e conceitos das linguagens Java, C e SQL abordados através de diversas atividades com complexidades e exigências diferentes. Aulas práticas suplementadas com aspectos teóricos e mais abastados dos recursos abordados.
 
-### C e Java
+#### C e Java
 > Variáveis, estruturas condicionais (SWTICH/IF/ELSE), estruturas de repetição (FOR/WHILE), estruturas de dados (VETORES/MATRIZES) e funções.
 
-### SQL
+#### SQL
 - DDL 
 > CREATE, ALTER, DROP.
 - DML
@@ -30,5 +30,5 @@ Vários recursos e conceitos das linguagens Java, C e SQL abordados através de 
 - DQL
 > SELECT, Fazer várias operações como COUNT, AVG, SUM, Organizar os dados em determinado padrão com ORDER BY e GROUP BY, JOIN (INNER, RIGHT e LEFT),Outras cláusulas como FROM, WHERE, HAVING, Procedimentos armazenados (Procedures).
 
-### POO (Programação Orientada a Objetos)
+#### POO (Programação Orientada a Objetos)
 > Classes, campos, objetos, instâncias, construtores, modificadores de acesso, métodos, setters/getters, associações, agregações, composições, heranças, polimorfismo, interfaces, exceções e estruturas de dados.
